@@ -8,3 +8,4 @@ Setup:
   * python3 wsjtx_grid_from_gpsd.py
   
   
+The files in the pywsjtx forked from this repo https://github.com/bmo/py-wsjtx
